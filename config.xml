@@ -10,6 +10,6 @@
         <access origin="*" />
 		
 		<icon src = "images/Capture2.png"/>
-		<splash src = "images/ijil_diploma.jpg"/>
+		<splash src = "images/sijil_diploma.jpg"/>
 		
     </widget>
